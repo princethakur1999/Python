@@ -1,1 +1,1 @@
-Explore Python fundamentals with a comprehensive collection of code examples, from syntax basics to advanced topics.
+Explore Python fundamentals with a comprehensive collection of code examples, from basics to advanced topics.
