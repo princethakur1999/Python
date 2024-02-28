@@ -1,6 +1,5 @@
 print("A")
-shree
-print('shreekapote')
+
+print("shreekapote")
 
 print("Krishna was here!!")
-main
